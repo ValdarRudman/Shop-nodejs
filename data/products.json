@@ -1,1 +1,2 @@
-[{"title":"Book","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/33-1232659027iDxr.jpg","description":"This is a book","price":"19.80"}]
+[{"id":"123245","title":"A Book","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/33-1232659027iDxr.jpg","description":"This is an awesome book!","price":"19"},
+    {"id":"0.20178551512777343","title":"A bottle","imageUrl":"https://www.publicdomainpictures.net/pictures/30000/velka/bottle-of-rum-on-the-beach.jpg","description":"A nice drink","price":"122"}]
