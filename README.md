@@ -6,4 +6,5 @@ Uses modules such as sequelize, ejs, express.
 Run 'npm install'.
 
 # Run Project
-Run 'node app.js'.  Uses port 3000.
+Run 'node app.js'.
+Uses port 3000.
