@@ -1,5 +1,9 @@
 # Shop-node.js
-A shop created to practice node.js
+A shop created in node.js v14.9.0.  
+Uses modules such as sequelize, ejs, express.
 
-run node app.js
-port 3000 is used
+# Prerequisites
+Run 'npm install'.
+
+# Run Project
+Run 'node app.js'.  Uses port 3000.
